@@ -12,7 +12,7 @@
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
         <br></br>
-        <a href = "mailto:henrique.florencio307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
+        <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWglVQBPRZPZQCdNGQMDsHzhfdTBLmqWCpqhjNqzLTrhhCRKVBgFkTtwFTmnXlQBSrJgq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
         <a href="https://www.linkedin.com/in/henrique-florencio-b04b5b198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </section>
 </div>
