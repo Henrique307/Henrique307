@@ -17,3 +17,5 @@
     </section>
 </div>
 
+![Snake animation](https://github.com/rafaballerini/Henrique307/blob/output/github-contribution-grid-snake.svg)
+
