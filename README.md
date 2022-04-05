@@ -1,7 +1,7 @@
 <a href="https://github.com/Henrique307"/>
 <br></br>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Henrique307&show_icons=true&layout=compact&theme=github_dark&custom_title=Minhas%20contribuicoes%20no%20GitHub&include_all_commits=true&hide=contribs&count_private=true"/>
-<img width="300rem" align="right" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique307&langs_count=6&custom_title=Linguagens%20mais%20usadas&layout=default&theme=github_dark"/> 
+<img align="right" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique307&langs_count=6&custom_title=Linguagens%20mais%20usadas&layout=default&theme=github_dark"/> 
 <!-- Repositório dos dois containers: https://github.com/anuraghazra/github-readme-stats -->
 <br></br>
 <div width="1px" align="left">
