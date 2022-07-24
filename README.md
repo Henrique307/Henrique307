@@ -9,9 +9,9 @@
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
         <br></br>
         <!-- peguei os icones aqui: https://devicon.dev/ -->
         <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWglVQBPRZPZQCdNGQMDsHzhfdTBLmqWCpqhjNqzLTrhhCRKVBgFkTtwFTmnXlQBSrJgq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
