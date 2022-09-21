@@ -6,16 +6,20 @@
 <br></br>
 <div width="1px" align="left">
     <section>
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+        <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         <br></br>
+    </section>
+    <section>
         <!-- peguei os icones aqui: https://devicon.dev/ -->
-        <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWglVQBPRZPZQCdNGQMDsHzhfdTBLmqWCpqhjNqzLTrhhCRKVBgFkTtwFTmnXlQBSrJgq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
-        <a href="https://www.linkedin.com/in/henrique-florencio-b04b5b198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWglVQBPRZPZQCdNGQMDsHzhfdTBLmqWCpqhjNqzLTrhhCRKVBgFkTtwFTmnXlQBSrJgq"><img alt="Email me!" src="https://img.shields.io/twitter/url?color=blue&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
+        <a href="https://www.linkedin.com/in/henrique-florencio-b04b5b198"><img alt="Lets Connect!" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
+        <a href="https://twitter.com/FlorencioHenri"><img alt="Follow me on twitter!" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
     </section>
 </div>
 
