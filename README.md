@@ -23,7 +23,3 @@
         <a href="http://54.163.118.1/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Portfolio&logo=portfolio&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
     </section>
 </div>
-
-![Snake animation](https://github.com/Henrique307/Henrique307/blob/output/github-contribution-grid-snake.svg) 
-
-<!-- Documentação da cobrinha: https://github.com/Platane/snk -->
